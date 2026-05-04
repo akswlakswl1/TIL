@@ -31,6 +31,6 @@ Documenting small things I learn every day on my journey from **Unity Developer*
 
 - 🎮 4+ years Unity / C# background
 - 🌐 Transitioning to Front-End development
-- 🇨🇦 Canada-bound August 2025
+- 🇨🇦 Canada-bound August 2026
 
 Each entry compares new concepts to C# / Unity where helpful.
